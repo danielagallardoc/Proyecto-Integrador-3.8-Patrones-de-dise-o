@@ -10,7 +10,7 @@ El proyecto implementa 4 patrones de diseño solicitados:
 - 1 Patrón adicional
 
 
-#Patrones implementados y justificación
+Patrones implementados y justificación
 1. Factory Method (Patrón Creacional)
 * Problema: Se necesitaba una manera flexible de crear diferentes tipos de sensores (temperatura, humedad, contaminación) sin modificar el código principal.
 * Razón: Factory Method permite crear objetos sin exponer la lógica de creación, facilitando la escalabilidad si se agregan más sensores.
