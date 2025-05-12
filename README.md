@@ -1,1 +1,1 @@
-# Proyecto-Integrador-3.8-Patrones-de-dise-o
+# Proyecto-Integrador 3.8 Patrones de diseño
