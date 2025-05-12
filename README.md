@@ -1,1 +1,2 @@
-# Proyecto-Integrador 3.8 Patrones de diseño
+# Proyecto: Sistema de Monitoreo de Sensores para una Ciudad Inteligente (Smart City)
+
